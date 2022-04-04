@@ -1,4 +1,4 @@
-This is a starting point for my playing around with machine learning (reinforcement learning, deep learning) via python-sc2 that I did a while back and want to resurrect at some point.
+This is a starting point for my playing around with machine learning (reinforcement learning, deep learning) with Tensorflow via `keras` and `python-sc2` that I did a while back and want to resurrect at some point.
 
 I've removed the training data and example code for now, but the starting point for getting this working again would be: https://pythonprogramming.net/starcraft-ii-ai-python-sc2-tutorial/
 
